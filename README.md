@@ -48,9 +48,3 @@ The application is composed of:
 - **cx_Freeze** – Packaging into an executable file for Windows  
 
 ---
-
-## 📺 Demonstration
-
-![Demonstration](demo.gif)
-
----
